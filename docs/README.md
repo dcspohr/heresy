@@ -1,3 +1,3 @@
-#Optional Heresy Rules
+# Optional Heresy Rules
 
-##Alternating Activations
+## Alternating Activations
