@@ -29,9 +29,9 @@ To emphasize the alertness and agility of units beyond their Initiative attribut
 - Skimmers
 
 ###### Special Rules: (+1)
-- Acute Senses(?)
-- Crusader
-- Fleet
+- Acute Senses
+- Crusader (Movement only)
+- Fleet (Movement Only)
 
 ###### Unit Type: (-1)
 - Artillery(?)
@@ -41,5 +41,16 @@ To emphasize the alertness and agility of units beyond their Initiative attribut
 ###### Special Rules: (-1)
 - Slow & Purposeful (Cataphractii?)
 
-###### On Zooming Flyers & Super-Heavies:
-Due to their immense momentum (from either mass or velocity) These units will always act after the lowest possible Initiative step in a given phase.
+##### Zooming Flyers & Super-Heavies:
+Due to their immense momentum (from either mass or velocity) these units will always act after the lowest possible Initiative step in a given phase.
+
+### Optional Rule: Scatter!
+Units that elect to Run in the Shooting Phase may end their movement outside of normal unit coherency (Usual restrictions and/or penalties apply afterward)
+
+### Optional Rule: Barrage Zeroing
+Units may not make attacks with Barrage weapons during their Initiative step. At the beginning of the Shooting Phase, place a zeroing marker on any valid target.
+
+At the end of the shooting phase, resolve the attack even if the unit is no longer on the table. If the targeted unit has not moved since the zeroing marker was placed, its controller may re-roll the scatter dice.
+
+
+
